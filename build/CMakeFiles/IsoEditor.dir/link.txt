@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/IsoEditor.dir/cell.cpp.o CMakeFiles/IsoEditor.dir/main.cpp.o CMakeFiles/IsoEditor.dir/clickcontrol.cpp.o CMakeFiles/IsoEditor.dir/layout.cpp.o CMakeFiles/IsoEditor.dir/editor.cpp.o  -o IsoEditor -rdynamic 
